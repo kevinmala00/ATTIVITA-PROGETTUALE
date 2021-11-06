@@ -6,5 +6,5 @@
 * [PROGETTAZIONE APP ANDROID](https://www.html.it/guide/guida-android/)
 * [CREAZIONE DELLA DOCUMENTAZIONE JAVA](https://person.dibris.unige.it/magillo-paola/P2_SMID04/lez11.html)
 * [NOTAZIONE UML](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
-* [IBM ILOGCPLEX MANUAL] (https://www.ibm.com/docs/en/SSSA5P_12.8.0/ilog.odms.studio.help/pdf/usrcplex.pdf)
+* [IBM ILOGCPLEX MANUAL](https://www.ibm.com/docs/en/SSSA5P_12.8.0/ilog.odms.studio.help/pdf/usrcplex.pdf)
 

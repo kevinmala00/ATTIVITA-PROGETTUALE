@@ -1,4 +1,4 @@
-# ATTIVITA-PROGETTUALE: Modalità di acesso ai dati forniti dal Linguaggio Java per dispositivi mobili e non
+# ATTIVITA-PROGETTUALE: Modalità di accesso ai dati forniti dal Linguaggio Java per dispositivi mobili e non
 ***
 ## GUIDE UTILI
 * [CREAZIONE E SINTASSI FILE README.md](https://lorenzoneri.com/come-scrivere-un-readme/) oppure [QUESTO](https://www.ionos.it/digitalguide/siti-web/programmazione-del-sito-web/file-readme/)

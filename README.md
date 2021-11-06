@@ -9,7 +9,7 @@
 * [IBM ILOGCPLEX MANUAL](https://www.ibm.com/docs/en/SSSA5P_12.8.0/ilog.odms.studio.help/pdf/usrcplex.pdf)
 
 ## DESCRIZIONE
-L'attività si incentra sulle varie modalità di accesso ai dati forniti da Java (android e pc). Dopo una breve analisi teorica si applica ciò ad un'applicazione gestionale per una pizzeria che prevede le seguenti funzioni chiave rappresentate da questo semplice [use-case diagram](ATTIVITA-PROGETTUALE/UML/MyPizzeriaUseCase.vpp):
+L'attività si incentra sulle varie modalità di accesso ai dati forniti da Java (android e pc). Dopo una breve analisi teorica si applica ciò ad un'applicazione gestionale per una pizzeria che prevede le seguenti funzioni chiave rappresentate da questo semplice [use-case diagram](UML/MyPizzeriaUseCase.vpp):
 * gestione degli ordini che avviene attraverso l'utilizzo di IBM ILOGCPLEX
 * gestione dei turni dei dipendenti
 * gestione delle entrate 

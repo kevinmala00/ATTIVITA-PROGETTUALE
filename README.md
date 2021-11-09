@@ -30,7 +30,7 @@ L'applicazione pc interagirà con una versione android riservata a:
 
 
 Di seguito in use case diagram che ne mostra il funzionamento:
-![use-case diagram](UML/UseCaseMyPizzeira.jpg)
+![use-case diagram](UML/UseCaseMyPizzeria.jpg)
 
 
 

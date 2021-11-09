@@ -29,7 +29,7 @@ L'applicazione pc interagirà con una versione android riservata a:
   * visualizzare il menu della pizzeria
 
 
-Di seguito in use case diagram che ne mostra il funzionamento:
+Di seguito un use case diagram che ne mostra il funzionamento:
 ![use-case diagram](UML/UseCaseMyPizzeria.jpg)
 
 

@@ -1,4 +1,4 @@
-# ATTIVITA-PROGETTUALE: Modalità di accesso ai dati forniti dal Linguaggio Java per dispositivi mobili e non
+# ATTIVITA-PROGETTUALE: Modalità di accesso ai dati forniti dal Linguaggio Java per dispositivi mobili e non, con particolare attenzione alla tecnologia REST
 ***
 ## GUIDE UTILI
 * [CREAZIONE E SINTASSI FILE README.md](https://lorenzoneri.com/come-scrivere-un-readme/) oppure [QUESTO](https://www.ionos.it/digitalguide/siti-web/programmazione-del-sito-web/file-readme/) o [ESEMPIO](https://github.com/italia/readme-starterkit)
@@ -20,7 +20,7 @@ L'applicazione pc utilizzata dalla **_pizzeria_** prevederà le seguenti funzion
 L'applicazione pc interagirà con una versione android riservata a:
 * **_clienti_** che potranno:
   * visualizzare le celle temporali in cui possono effettuare un ordine rispetto alla pizzeria
-  * visulaizzare il menu della pizzeria
+  * visualizzare il menu della pizzeria
 
 * **_fattorini_** che potranno:
   * associarsi a una pizzeria per poter lavorare con essa

@@ -9,25 +9,26 @@
 
 
 ## DESCRIZIONE
-
+In [Code directory](/Code) is placed a working Android example application which can be launched in Android Studio. Each part represents the corrisponding course module.
 
 ---
 ## SOFTWARE AND UTILITIES
-* ### ANDROID STUDIO
-[DOWNLOAD HERE](https://developer.android.com/studio)
-* Che cos'è?
-* Alternative (Eclipse)
+### Android Studio
+* #### [DOWNLOAD HERE](https://developer.android.com/studio)
+* #### Che cos'è?
+* #### Alternative (Eclipse)
 
 * ### XML
-* Che cos'è?
-* Utilizzo in android
+      * Che cos'è?
+      * Utilizzo in android
 
-* ### GRADLE
+* ### Gradle
 * Che cos'è?
-* Utilizzo in android
+*       Utilizzo in android
 
 ---
 ## PROGRAMMA
+<p>Some Markdown text with <span style="color:gold">some <em>blue</em> text</span>.</p>
 
 * ### INTRO
 

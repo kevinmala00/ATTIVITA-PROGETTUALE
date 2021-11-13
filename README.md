@@ -19,7 +19,10 @@
 
 ## DESCRIPTION
 In [Code directory](/Code) is placed a working Android example application which can be launched in Android Studio. Each part represents the corrisponding course module.
+
 In [Slides directory](/Slides) are placed Slides used in tutorial.
+
+[OFFICIAL ANDROID SITE](https://developer.android.com/)
 
 ---
 

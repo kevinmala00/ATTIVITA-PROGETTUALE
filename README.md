@@ -12,7 +12,7 @@
 ## TABLE OF CONTENTS
 1. [Description](#description)
 2. [Installation](#installation)
-3. [Software and utilities](#software-and-utilities)
+3. [Software, utilities and books](#software,-utilities-and-books)
 4. [Program](#program)
 ---
 
@@ -36,12 +36,17 @@ or
 
 
 ---
-## SOFTWARE AND UTILITIES
+## SOFTWARE, UTILITIES AND BOOKS
 ### Software 
 * [Android Studio](https://developer.android.com/studio)
 
 ### Utilities
 * [Android API](https://developer.android.com/reference)
+
+### Books
+- Head First Android Development (beginners - intermediate)
+- Professional Android (intermedate - advanced)
+- Beginning Android 4 Games Development 
 ---
 ---
 

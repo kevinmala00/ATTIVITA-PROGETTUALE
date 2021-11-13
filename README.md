@@ -12,7 +12,7 @@
 ## TABLE OF CONTENTS
 1. [Description](#description)
 2. [Installation](#installation)
-3. [Software, utilities and books](#software,-utilities-and-books)
+3. [Software, utilities and books](#software---utilities---books)
 4. [Program](#program)
 ---
 
@@ -36,7 +36,7 @@ or
 
 
 ---
-## SOFTWARE, UTILITIES AND BOOKS
+## SOFTWARE - UTILITIES - BOOKS
 ### Software 
 * [Android Studio](https://developer.android.com/studio)
 
@@ -83,13 +83,3 @@ or
 * 
 
 ### APPLICATION DISTRIBUTION
-
-
-
-
-
-
-
-
-
-

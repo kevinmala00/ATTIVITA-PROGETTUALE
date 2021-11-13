@@ -22,7 +22,7 @@ In [Code directory](/Code) is placed a working Android example application which
 
 In [Slides directory](/Slides) are placed Slides used in tutorial.
 
-[OFFICIAL ANDROID SITE](https://developer.android.com/)
+In '[OFFICIAL ANDROID SITE](https://developer.android.com/)' you can find official guide, documentation and tutorial.
 
 ---
 

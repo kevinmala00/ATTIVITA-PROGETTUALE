@@ -22,7 +22,7 @@ In [Code directory](/Code) is placed a working Android example application which
 
 In [Slides directory](/Slides) are placed Slides used in tutorial.
 
-In '[OFFICIAL ANDROID SITE](https://developer.android.com/)' you can find official guide, documentation and tutorial.
+In [OFFICIAL ANDROID SITE](https://developer.android.com/) you can find official guide, documentation and tutorial.
 
 ---
 
@@ -49,9 +49,6 @@ or
 - Beginning Android 4 Games Development 
 ---
 ---
-
-
-
 
 ## PROGRAM
 ### ANDROID & ANDROID STUDIO

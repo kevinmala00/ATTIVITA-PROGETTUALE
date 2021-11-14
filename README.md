@@ -22,7 +22,7 @@ In [OFFICIAL ANDROID SITE](https://developer.android.com/) you can find official
     * [app](/Code/AndroidTutorial/app)
       * [src](/Code/AndroidTutorial/app/src)
         * [main](/Code/AndroidTutorial/app/src/main)
-          * [Java/com/example/AndroidTutorial](/Code/AndroidTutorial/app/src/main/Java/com/example/AndroidTutorial)
+          * [Java/com/example/AndroidTutorial](/Code/AndroidTutorial/app/src/main/Java/com/example/androidtutorial)
           * [res](/Code/AndroidTutorial/app/src/main/res)
              * [layout](/Code/AndroidTutorial/app/src/main/res/layout)
              * [drawable](/Code/AndroidTutorial/app/src/main/res/drawable)

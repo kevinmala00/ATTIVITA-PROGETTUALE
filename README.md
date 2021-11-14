@@ -7,7 +7,6 @@ In [Code directory](/Code) is placed a working Android example application which
 In [Slides directory](/Slides) are placed Slides used in tutorial.
 
 In [OFFICIAL ANDROID SITE](https://developer.android.com/) you can find official guide, documentation and tutorial.
-
 ---
 
 ## TABLE OF CONTENTS
@@ -31,7 +30,7 @@ In [OFFICIAL ANDROID SITE](https://developer.android.com/) you can find official
           * [AndroidManifest](/Code/AndroidTutorial/app/src/main/AndroidManifest.xml)
 - [Slides](/Slides)
 - [Books](/Books)
-
+---
 
 ## INSTALLATION
 > $ git clone https://github.com/kevinmala00/ATTIVITA-PROGETTUALE.git
@@ -39,10 +38,8 @@ In [OFFICIAL ANDROID SITE](https://developer.android.com/) you can find official
 or
 
 ![Import from VSC in AndroidStudio](/Altro/ImportFromVsc.png)
-
-
-
 ---
+
 ## SOFTWARE - UTILITIES - BOOKS
 ### Software 
 * [Android Studio](https://developer.android.com/studio)
@@ -87,6 +84,7 @@ or
 * 
 
 ### APPLICATION DISTRIBUTION
+---
 ---
 
 ## GUIDE UTILI

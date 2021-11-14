@@ -18,9 +18,14 @@ In [OFFICIAL ANDROID SITE](https://developer.android.com/) you can find official
 ---
 
 ## REPOSITORY STRUCTURE
-- [Code](/Code)
-  |
-  + [src]
+* [Code](/Code)
+  * [AndroidTutorial](/Code/AndroidTutorial)
+    * [App](/Code/AndroidTutorial/App)
+      + [Src](/Code/AndroidTutorial/App/Src)
+        - [Main](/Code/AndroidTutorial/App/Src/main)
+          + [Java/com/example/AndroidTutorial](/Code/AndroidTutorial/App/Src/main/Java/com/example/AndroidTutorial)
+          + [Res](/Code/AndroidTutorial/App/Src/main/Res)
+          + [AndroidManifest](/Code/AndroidTutorial/App/Src/main/AndroidManifest.xml)
 - [Slides](/Slides)
 - [Books](/Books)
 

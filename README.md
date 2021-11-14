@@ -1,22 +1,6 @@
 # ATTIVITA-PROGETTUALE: Android application development tutorial in Java with Android Studio
 ---
 
-## GUIDE UTILI
-* [CREAZIONE E SINTASSI FILE README.md](https://www.ionos.it/digitalguide/siti-web/programmazione-del-sito-web/markdown/) oppure [QUESTO](https://www.ionos.it/digitalguide/siti-web/programmazione-del-sito-web/file-readme/) o [ESEMPIO](https://github.com/italia/readme-starterkit)
-* [CREAZIONE E SINTASSI FILE .gitgnore](https://git-scm.com/docs/gitignore#_pattern_format)
-* [PROGETTAZIONE APP ANDROID](https://www.html.it/guide/guida-android/)
-* [CREAZIONE DELLA DOCUMENTAZIONE JAVA](https://person.dibris.unige.it/magillo-paola/P2_SMID04/lez11.html)
-* [NOTAZIONE UML](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
----
-
-## TABLE OF CONTENTS
-1. [Description](#description)
-2. [Installation](#installation)
-3. [Software, utilities and books](#software---utilities---books)
-4. [Program](#program)
----
-
-
 ## DESCRIPTION
 In [Code directory](/Code) is placed a working Android example application which can be launched in Android Studio. Each part represents the corrisponding course module.
 
@@ -25,6 +9,21 @@ In [Slides directory](/Slides) are placed Slides used in tutorial.
 In [OFFICIAL ANDROID SITE](https://developer.android.com/) you can find official guide, documentation and tutorial.
 
 ---
+
+## TABLE OF CONTENTS
+1. [Repository structure](#repository-structure)
+2. [Installation](#installation)
+3. [Software, utilities and books](#software---utilities---books)
+4. [Program](#program)
+---
+
+## REPOSITORY STRUCTURE
+- [Code](/Code)
+  |
+  + [src]
+- [Slides](/Slides)
+- [Books](/Books)
+
 
 ## INSTALLATION
 > $ git clone https://github.com/kevinmala00/ATTIVITA-PROGETTUALE.git
@@ -80,3 +79,11 @@ or
 * 
 
 ### APPLICATION DISTRIBUTION
+---
+
+## GUIDE UTILI
+* [CREAZIONE E SINTASSI FILE README.md](https://www.ionos.it/digitalguide/siti-web/programmazione-del-sito-web/markdown/) oppure [QUESTO](https://www.ionos.it/digitalguide/siti-web/programmazione-del-sito-web/file-readme/) o [ESEMPIO](https://github.com/italia/readme-starterkit)
+* [CREAZIONE E SINTASSI FILE .gitgnore](https://git-scm.com/docs/gitignore#_pattern_format)
+* [PROGETTAZIONE APP ANDROID](https://www.html.it/guide/guida-android/)
+* [CREAZIONE DELLA DOCUMENTAZIONE JAVA](https://person.dibris.unige.it/magillo-paola/P2_SMID04/lez11.html)
+* [NOTAZIONE UML](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)

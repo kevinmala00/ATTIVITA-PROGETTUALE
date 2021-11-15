@@ -48,32 +48,30 @@ or
 * [Android API](https://developer.android.com/reference)
 
 ### Books
-- Head First Android Development (beginners - intermediate)
+- **Head First Android Development** (beginners - intermediate) (**testo di riferimento**)
 - Professional Android (intermedate - advanced)
 - Beginning Android 4 Games Development 
 ---
 ---
 
 ## PROGRAM
-### ANDROID & ANDROID STUDIO
+### INTRODUCING ANDROID & ANDROID STUDIO
 * Android timeline
-* Operative System
+* Operative System and Architecture
 * Why to choose it?
-* *Android Studio basic guide (new project creation, AVD initialization, graphical tool)*
+* Android Studio basic guide (new project creation, AVD initialization, graphical tool)
+* Application anatomy (AndroidManifest, Res directory (Layout, Drawable...), Gradle directory, Java code directory)
 ### ANDROID BASICS
-* Application lifecycle and Activity
+* Activity
 * Fragment
-* Intent and Asset
-* Permission
-* AndroidManifest
-* Res directory (Layout, Drawable...)
-* Gradle directory
+* Intent
 ### ANDROID GUI (Graphical User Interface)
 * View
-* Gestione degli eventi
-* Advanced view
-* Advanced graphical components (Navigation Drawer, Spinner, Toolbar, ActionBar)
+* Events handling
+* Advanced view and Adapter
+* Advanced graphical components (
 ### DATA MANAGMENT
+* File and Asset folder
 * SharedPreferences
 * Local database with SQLite
 * REST services

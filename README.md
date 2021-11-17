@@ -29,7 +29,6 @@ In [OFFICIAL ANDROID SITE](https://developer.android.com/) you can find official
              * [values](/Code/AndroidTutorial/app/src/main/res/values)
           * [AndroidManifest](/Code/AndroidTutorial/app/src/main/AndroidManifest.xml)
 - [Slides](/Slides)
-- [Books](/Books)
 ---
 
 ## INSTALLATION

@@ -66,6 +66,7 @@ or
 * Activity (Activity lifecycle, runTimer(), Handler, saveCurrentState()
 * Intent (use between 2 activities and between your app and another app)
 * Fragment (FragmentLifeCycle, ListFragment, transaction) 
+* Permission
 ### ANDROID GUI (Graphical User Interface)
 * Layouts
 * View (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)
@@ -78,11 +79,6 @@ or
 * SharedPreferences
 * Local database with SQLite
 * REST services
-
-### ANDROID ADVANCED
-* Service
-* Permisssion
-* GPS tracking
 
 ---
 ---

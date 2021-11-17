@@ -34,7 +34,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Key features
 
 [M2] Android Studio
-* Project creation, 
+* Project creation
 * AVD initialization
 * Debugging in real device
 * Graphic tools

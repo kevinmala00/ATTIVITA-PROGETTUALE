@@ -59,29 +59,31 @@ or
 * Android timeline
 * Operative System and Architecture
 * Why to choose it?
-* Android Studio basic guide (new project creation, AVD initialization, graphical tool)
-* Application anatomy (AndroidManifest, Res directory (Layout, Drawable...), Gradle directory, Java code directory)
+* Android Studio basic guide (new project creation, AVD initialization and Activate Debugging in real device, graphic tool)
+* Application structure (AndroidManifest, Res directory (Layout, Drawable...), Gradle directory, Java code directory)
 ### ANDROID BASICS
-* Activity
-* Fragment
-* Intent
+* *esempio di ciò che si riuscirà a fare al termine del primo capitolo*
+* Activity (Activity lifecycle, runTimer(), Handler, saveCurrentState()
+* Intent (use between 2 activities and between your app and another app)
+* Fragment (FragmentLifeCycle, ListFragment, transaction) 
 ### ANDROID GUI (Graphical User Interface)
-* View
+* Layouts
+* View (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)
+* Advanced view and Adapter (ListView, RecyclerView, CardView
 * Events handling
-* Advanced view and Adapter
-* Advanced graphical components (
+* Advanced graphical components (ActionBar, ToolBar, TabLayout, FloatingActionBar, SnackBar )
 ### DATA MANAGMENT
 * File and Asset folder
+* Storage device access
 * SharedPreferences
 * Local database with SQLite
 * REST services
-### 
-* Storage device access
-* Google Play Services
-* GPS Tracking
-* 
 
-### APPLICATION DISTRIBUTION
+### ANDROID ADVANCED
+* Service
+* Permisssion
+* GPS tracking
+
 ---
 ---
 

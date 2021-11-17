@@ -46,7 +46,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Fragment (FragmentLifeCycle, ListFragment, Transaction) 
 * Permissions
 
-[M4] GUI
+[M4] Components, Layouts, Events
 * Components (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)
 * Advanced components (ActionBar, ToolBar, TabLayout, FloatingActionBar, SnackBar )
 * View and Adapter (ListView, RecyclerView, CardView)

@@ -46,6 +46,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 
 [M3] Application Structure
 * Structure (AndroidManifest, Resource directory, Gradle directory, Java directory)
+* Log (Error, Verbose, Warning)
 * Activity (ActivityLifeCycle, runTimer(), Handler, saveCurrentState())
 * Intent (...)
 * Fragment (FragmentLifeCycle, ListFragment, Transaction) 

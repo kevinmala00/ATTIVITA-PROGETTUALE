@@ -36,9 +36,9 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 
 [M2] Android Studio
 * Project creation
+* Tools
 * AVD initialization
 * Debugging in real device
-* Graphic tools
 
 [M3] Application Structure
 * Structure (AndroidManifest, Resource directory, Gradle directory, Java directory)

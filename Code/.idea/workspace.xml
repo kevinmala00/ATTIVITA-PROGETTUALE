@@ -10,67 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72d07338-76ce-43a5-bfb7-cc6bdb92aea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/androidTest/java/com/example/androidtutorial/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/java/com/example/androidtutorial/HomeActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/java/com/example/androidtutorial/IntroActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/drawable/logo_ing_ingegneria_modena.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/drawable/logo_unimore_con_scritta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/layout/activity_home.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/layout/basic_logo_unimore_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/layout/intro_activity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/app/src/test/java/com/example/androidtutorial/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidTutorial/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slides/[M1]Introduction.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\kevin\.android\avd\Pixel_5_API_30_1.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -89,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -180,5 +129,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

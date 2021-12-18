@@ -10,9 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72d07338-76ce-43a5-bfb7-cc6bdb92aea5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slides/[M1]Introduction.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slides/03 - Application-structure.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../slides/03 - Application-structure.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slides/Template.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../slides/Template.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

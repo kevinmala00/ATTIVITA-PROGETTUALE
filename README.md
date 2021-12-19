@@ -37,7 +37,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 
 [M2] Android Studio
 * Project creation
-* Tools 
+* Tools (AVD Manager, Profiler, SDK Manager, GitHub plugins, Sample progect, Gradle)
 * AVD initialization
 * Run/Debug in real device
 * Device file explorer

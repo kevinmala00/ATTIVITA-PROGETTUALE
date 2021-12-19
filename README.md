@@ -15,7 +15,7 @@
 
 
 ## Books
-- **Head First Android Development (intermediate)**
+- Head First Android Development (intermediate)
 - Professional Android (advanced)
 
 ## Videos

@@ -15,7 +15,7 @@
 
 
 ## Books
-- **Head First Android Development (intermediate)**
+- Head First Android Development (intermediate)
 - Professional Android (advanced)
 
 ## Videos
@@ -31,19 +31,24 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 
 ## Android Modules
 [M1] Introduction
-* Android timeline
+* Android timeline and stas
 * Key features
+* Android architecture
 
 [M2] Android Studio
 * Project creation
-* Tools
+* Tools 
 * AVD initialization
-* Debugging in real device
+* Run/Debug in real device
 * Device file explorer
+* Github integration
 * Layout design tool
+* Sample project
+* Project structure (Android Manifest, Resource directory, Gradle directory, Java directory)
 
 [M3] Application Structure
-* Structure (AndroidManifest, Resource directory, Gradle directory, Java directory)
+* Principal elements
+* Application lifecycle
 * Log (Error, Verbose, Warning)
 * Activity (ActivityLifeCycle, runTimer(), Handler, saveCurrentState())
 * Intent (...)
@@ -62,3 +67,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * SharedPreferences
 * SQLite Database
 * Remote REST services
+
+[M6] Release and distribute Application
+
+

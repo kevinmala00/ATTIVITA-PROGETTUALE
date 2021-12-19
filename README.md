@@ -31,16 +31,19 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 
 ## Android Modules
 [M1] Introduction
-* Android timeline
+* Android timeline and stas
 * Key features
+* Android architecture
 
 [M2] Android Studio
 * Project creation
-* Tools
+* Tools 
 * AVD initialization
-* Debugging in real device
+* Run/Debug in real device
 * Device file explorer
+* Github integration
 * Layout design tool
+* Sample project
 
 [M3] Application Structure
 * Structure (AndroidManifest, Resource directory, Gradle directory, Java directory)
@@ -62,3 +65,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * SharedPreferences
 * SQLite Database
 * Remote REST services
+
+[M6] Release and distribute Application
+
+

@@ -44,9 +44,11 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Github integration
 * Layout design tool
 * Sample project
+* Project structure (Android Manifest, Resource directory, Gradle directory, Java directory)
 
 [M3] Application Structure
-* Structure (AndroidManifest, Resource directory, Gradle directory, Java directory)
+* Principal elements
+* Application lifecycle
 * Log (Error, Verbose, Warning)
 * Activity (ActivityLifeCycle, runTimer(), Handler, saveCurrentState())
 * Intent (...)

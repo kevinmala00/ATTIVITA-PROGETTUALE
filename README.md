@@ -54,14 +54,14 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Notifications
 * Log (Error, Verbose, Warning)
 
-[M5] Components, Layouts, Events
+[M4] Components, Layouts, Events
 * Components (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)
 * Advanced components (ActionBar, ToolBar, TabLayout, FloatingActionBar, SnackBar )
 * View and Adapter (ListView, RecyclerView, CardView)
 * Layout management
 * Events handling
 
-[M6] Data Access
+[M5] Data Access
 * Storage Access Framework
 * SharedPreferences
 * SQLite Database

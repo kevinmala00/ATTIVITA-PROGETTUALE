@@ -37,23 +37,22 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 
 [M2] Android Studio
 * Project creation
-* Tools 
+* Tools (AVD Manager, Profiler, SDK Manager, GitHub plugins, Sample progect, Gradle)
 * AVD initialization
 * Run/Debug in real device
 * Device file explorer
-* Github integration
-* Layout design tool
-* Sample project
 * Project structure (Android Manifest, Resource directory, Gradle directory, Java directory)
 
 [M3] Application Structure
 * Principal elements
-* Application lifecycle
-* Log (Error, Verbose, Warning)
+* Application lifecycle and priority
 * Activity (ActivityLifeCycle, runTimer(), Handler, saveCurrentState())
 * Intent (...)
 * Fragment (FragmentLifeCycle, ListFragment, Transaction) 
 * Permissions
+* Services
+* Notifications
+* Log (Error, Verbose, Warning)
 
 [M4] Components, Layouts, Events
 * Components (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)

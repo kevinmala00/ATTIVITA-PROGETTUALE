@@ -36,37 +36,39 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Android architecture
 
 [M2] Android Studio
-* Project creation
-* Tools (AVD Manager, Profiler, SDK Manager, GitHub plugins, Sample progect, Gradle)
-* AVD initialization
-* Run/Debug in real device
-* Device file explorer
-* Project structure (Android Manifest, Resource directory, Gradle directory, Java directory)
+* Tools (AVD Manager, AVD initialization, Run/Debug, Device file explorer, Profiler, SDK Manager, GitHub plugins, Gradle)
+* Project creation (New project, import from VCS, Sample progect)
 
-[M3] Application Structure
-* Principal elements
+[M3] Project structure 
+* Manifest
+* Resources
+* Gradle scripts
+
+[M4] Application architecture
 * Application lifecycle and priority
-* Activity (ActivityLifeCycle, runTimer(), Handler, saveCurrentState())
-* Intent (...)
+* Activity 
+* Intent
 * Fragment (FragmentLifeCycle, ListFragment, Transaction) 
-* Permissions
-* Services
 * Notifications
 * Log (Error, Verbose, Warning)
 
-[M4] Components, Layouts, Events
-* Components (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)
-* Advanced components (ActionBar, ToolBar, TabLayout, FloatingActionBar, SnackBar )
+[M5] Views and User interfece design
+* View (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)
+* Layout (Linear, Constraint, Relative)
 * View and Adapter (ListView, RecyclerView, CardView)
-* Layout management
 * Events handling
+* Advanced components (ActionBar, ToolBar, TabLayout, FloatingActionBar, SnackBar )
+* Layout management
 
-[M5] Data Access
+[M6] Broadcast receivers, content providers and services
+
+
+[M7] Data Access
 * Storage Access Framework
 * SharedPreferences
 * SQLite Database
 * Remote REST services
 
-[M6] Release and distribute Application
+[M8] Release and distribute Application
 
 

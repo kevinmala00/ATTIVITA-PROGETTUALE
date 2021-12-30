@@ -39,13 +39,14 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Tools (AVD Manager, AVD initialization, Run/Debug, Device file explorer, Profiler, SDK Manager, GitHub plugins, Gradle)
 * Project creation (New project, import from VCS, Sample progect)
 
-[M3] Project structure 
+[M3] Project structure
 * Manifest
 * Resources
 * Gradle scripts
 
 [M4] Application architecture
 * Application lifecycle and priority
+* View and layout overview
 * Activity 
 * Intent
 * Fragment (FragmentLifeCycle, ListFragment, Transaction) 

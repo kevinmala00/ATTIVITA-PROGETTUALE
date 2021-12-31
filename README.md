@@ -35,38 +35,54 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Key features
 * Android architecture
 
+
 [M2] Android Studio
-* Project creation
-* Tools (AVD Manager, Profiler, SDK Manager, GitHub plugins, Sample progect, Gradle)
-* AVD initialization
-* Run/Debug in real device
-* Device file explorer
-* Project structure (Android Manifest, Resource directory, Gradle directory, Java directory)
+* Tools (AVD Manager, AVD initialization, Run/Debug, Device file explorer, Profiler, SDK Manager, GitHub plugins, Gradle)
+* Project creation (New project, import from VCS, Sample progect)
 
-[M3] Application Structure
-* Principal elements
+
+[M3] Project structure
+* Manifest
+* Resources
+* Gradle scripts
+
+
+[M4] Application architecture and User interface design
 * Application lifecycle and priority
-* Activity (ActivityLifeCycle, runTimer(), Handler, saveCurrentState())
-* Intent (...)
-* Fragment (FragmentLifeCycle, ListFragment, Transaction) 
-* Permissions
-* Services
-* Notifications
-* Log (Error, Verbose, Warning)
-
-[M4] Components, Layouts, Events
-* Components (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)
-* Advanced components (ActionBar, ToolBar, TabLayout, FloatingActionBar, SnackBar )
-* View and Adapter (ListView, RecyclerView, CardView)
-* Layout management
+* Application core components (Activity, Services, Broadcast receiver, Content provider)
+* Activity
+* View and ViewGroup (Button, textView, EditText, CheckBox, RadioButton,  ImageView, ImageButton, ScrollView, Toast)
+* Layout (Linear, Constraint, Relative)
 * Events handling
+* Layout management
 
-[M5] Data Access
+
+[M5] TO DO
+* Log (Error, Verbose, Warning)
+* Fragment (FragmentLifeCycle, ListFragment, Transaction) 
+* Intents 
+* Broadcast receivers
+* Notifications (Dialog, Toast, SnackBar)
+* Services
+
+
+[M6] Advance UI components
+* View and Adapter (RecyclerView, CardView, Spinner)
+* System UI (ActionBar, ToolBar, NavigationBar, StatusBar)
+* Navigation UI (NavigationDrawer, TabLayout, FloatingActionBar,)
+
+
+[M7] Data Access
 * Storage Access Framework
 * SharedPreferences
 * SQLite Database
 * Remote REST services
+* ~~Content providers~~
 
-[M6] Release and distribute Application
+
+
+[M8] Release and distribute Application
+* Preparing for distibution
+* Google Play
 
 

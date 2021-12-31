@@ -74,9 +74,9 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * ~~Content providers~~
 
 
-~~[M6] Working in background
-* ~~Notifications
-* ~~Services
+~~[M6] Working in background~~
+* ~~Notifications (Dialog, Toast)~~
+* ~~Services~~
 
 
 [M8] Release and distribute Application

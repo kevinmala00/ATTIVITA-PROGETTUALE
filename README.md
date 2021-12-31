@@ -50,20 +50,26 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 [M4] Application architecture and User interface design
 * Application lifecycle and priority
 * Application core components (Activity, Services, Broadcast receiver, Content provider)
-* View (ViewGroup, Button, textView, EditText, CheckBox, RadioButton, Spinner, ImageView, ImageButton, ScrollView, Toast)
+* Activity
+* View and ViewGroup (Button, textView, EditText, CheckBox, RadioButton,  ImageView, ImageButton, ScrollView, Toast)
 * Layout (Linear, Constraint, Relative)
-* View and Adapter (ListView, RecyclerView, CardView)
 * Events handling
-* Advanced components (ActionBar, ToolBar, TabLayout, FloatingActionBar, SnackBar )
 * Layout management
 
 
 [M5] TO DO
 * Log (Error, Verbose, Warning)
-* Activities 
+* Fragment (FragmentLifeCycle, ListFragment, Transaction) 
 * Intents 
 * Broadcast receivers
-* Fragment (FragmentLifeCycle, ListFragment, Transaction) 
+* Notifications (Dialog, Toast, SnackBar)
+* Services
+
+
+[M6] Advance UI components
+* View and Adapter (RecyclerView, CardView, Spinner)
+* System UI (ActionBar, ToolBar, NavigationBar, StatusBar)
+* Navigation UI (NavigationDrawer, TabLayout, FloatingActionBar,)
 
 
 [M7] Data Access
@@ -73,10 +79,6 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Remote REST services
 * ~~Content providers~~
 
-
-~~[M6] Working in background~~
-* ~~Notifications (Dialog, Toast)~~
-* ~~Services~~
 
 
 [M8] Release and distribute Application

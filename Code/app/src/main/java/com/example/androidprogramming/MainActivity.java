@@ -2,7 +2,6 @@ package com.example.androidprogramming;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
@@ -13,13 +12,13 @@ import android.os.Handler;
  *
  * @author kevinmala00
  */
-public class IntroActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
     private long delay = 2 * 1000;    //numero di millisecondi da attendere prima di startare la nuova activity
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_intro_constraint_layout);
+        setContentView(R.layout.activity_main_constraint_layout);
 
         Handler handler = new Handler();
         handler.postDelayed(new Runnable() {

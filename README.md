@@ -52,8 +52,9 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Application lifecycle and priority
 * Application core components (Activity, Services, Broadcast receiver, Content provider)
 * Activitis & Intents
-* View and ViewGroup (Button, textView, EditText, CheckBox, RadioButton,  ImageView, ImageButton, ScrollView, Toast)
-* Layout (Linear, Constraint, Relative)
+* View hierarchy
+* ViewGroup and Layout (Linear, Constraint, Relative, scrollView)
+* View (Button, textView, EditText, CheckBox, RadioButton,  ImageView, ImageButton, 
 * Events handling
 * Layout management
 
@@ -78,7 +79,6 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * SQLite Database
 * Remote REST services
 * ~~Content providers~~
-
 
 
 [M8] Release and distribute Application

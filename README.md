@@ -12,6 +12,7 @@
 * [Android official course](https://developer.android.com/courses) (video-lesson with exercises)
 
 ### Misc
+* [Google android source code](https://android.googlesource.com/?format=HTML)
 
 
 ## Books
@@ -50,17 +51,16 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 [M4] Application architecture and User interface design
 * Application lifecycle and priority
 * Application core components (Activity, Services, Broadcast receiver, Content provider)
-* Activity
+* Activitis & Intents
 * View and ViewGroup (Button, textView, EditText, CheckBox, RadioButton,  ImageView, ImageButton, ScrollView, Toast)
 * Layout (Linear, Constraint, Relative)
 * Events handling
 * Layout management
 
 
-[M5] TO DO
+[M5] More than activities
 * Log (Error, Verbose, Warning)
 * Fragment (FragmentLifeCycle, ListFragment, Transaction) 
-* Intents 
 * Broadcast receivers
 * Notifications (Dialog, Toast, SnackBar)
 * Services

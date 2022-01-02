@@ -12,7 +12,7 @@
 * [Android official course](https://developer.android.com/courses) (video-lesson with exercises)
 
 ### Misc
-* [Google android source code](https://android.googlesource.com/?format=HTML)
+* [Google android source code (framework classes)](https://android.googlesource.com/platform/frameworks/base/)
 
 
 ## Books

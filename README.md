@@ -62,9 +62,10 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 [M5] More than activities
 * Log (Error, Verbose, Warning)
 * Fragment (FragmentLifeCycle, ListFragment, Transaction) 
-* Broadcast receivers
 * Notifications (Dialog, Toast, SnackBar)
 * Services
+* Permission (Runtime check, ...)
+* Broadcast receivers
 
 
 [M6] Advance UI components

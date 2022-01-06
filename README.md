@@ -61,7 +61,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 
 [M5] More than activities
 * Log (Error, Verbose, Warning)
-* Fragment (FragmentLifeCycle, ListFragment, Transaction) 
+* Fragment (FragmentLifeCycle, FragmentManager, ListFragment, Transaction, comunication Fragment-Activity) 
 * Notifications (Dialog, Toast, SnackBar)
 * Services
 * Permission (Runtime check, ...)

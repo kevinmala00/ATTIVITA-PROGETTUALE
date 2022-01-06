@@ -37,9 +37,10 @@
 	
 	
 	+ [intent](https://developer.android.com/reference/android/content/Intent)
-		- ~~resolving intents~~
+		- starting activities and sharing data between activities
+		- ~~resolving intents and resolveActivity() method~~
 		- ~~intent filters~~
-		- [Starting Activities and Getting Results]( https://developer.android.com/reference/android/app/Activity#starting-activities-and-getting-results)
+		- ~~[Starting Activities and Getting Results]( https://developer.android.com/reference/android/app/Activity#starting-activities-and-getting-results)~~
 	
 * UI DESING
 	+ intro

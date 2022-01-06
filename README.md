@@ -48,7 +48,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Gradle scripts
 
 
-[M4] Application architecture and User interface design
+[M4] Activity, Intent and UI design
 * Application lifecycle and priority
 * Application core components (Activity, Services, Broadcast receiver, Content provider)
 * Activitis & Intents

@@ -53,10 +53,9 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Application core components (Activity, Services, Broadcast receiver, Content provider)
 * Activitis & Intents
 * View hierarchy
-* ViewGroup and Layout (Linear, Constraint, Relative, scrollView)
-* View (Button, textView, EditText, CheckBox, RadioButton,  ImageView, ImageButton, 
+* ViewGroup - Layout (Linear, Constraint, Relative, ScrollView)
+* View - Widget (Androdid Widget toolbox)
 * Events handling
-* Layout management
 
 
 [M5] More than activities

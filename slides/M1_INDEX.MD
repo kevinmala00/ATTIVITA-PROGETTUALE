@@ -12,8 +12,6 @@
 	+ [context](https://developer.android.com/reference/android/content/Context)
 	
 	+ activity class and methods
-		- onSaveInstanceState(Bundle outState), 
-		- onRestoreInstanceState(Bundle savedInstanceState) 
 		- finish()
 		- setContentView()
 		- findViewById()
@@ -25,7 +23,11 @@
 		- onpause(), 
 		- onstop(), 
 		- onrestart(), 
-		- ondestroy()), 	
+		- ondestroy()), 
+		
+	+ [Save and restore UI state](https://developer.android.com/guide/components/activities/activity-lifecycle#saras)
+		- onSaveInstanceState(Bundle outState), 
+		- onRestoreInstanceState(Bundle savedInstanceState) 	
 		
 	+ appcompatactivity
 	

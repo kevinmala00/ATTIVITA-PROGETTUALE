@@ -78,6 +78,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Storage Access Framework
 * SharedPreferences
 * SQLite Database
+* ~~Room library hints~~
 * Remote REST services
 * ~~Content providers~~
 

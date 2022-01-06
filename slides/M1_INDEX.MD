@@ -36,9 +36,23 @@
 		- add activity on manifest (automatic if you create activity with new->activity
 	
 	
-	+ [intent and bundle](https://developer.android.com/reference/android/content/Intent)
+	+ [intent](https://developer.android.com/reference/android/content/Intent)
+		- Starting new activities
+		- resolving intents
+		- returning result from activities
+		- ~~intent filters~~
 	
 	+ Starting Activities and Getting Results https://developer.android.com/reference/android/app/Activity#starting-activities-and-getting-results
 	
-UI DESING
-	+ 
+* UI DESING
+	+ intro
+	+ view hierarchy
+	+ view group - layout
+		- constraint layout
+		- linear layout
+		- relative layout
+		- frame layout
+		- scroll view
+	+ view - widgets
+		- android widget toolbox (button, textview, editext, )
+	+ handling events

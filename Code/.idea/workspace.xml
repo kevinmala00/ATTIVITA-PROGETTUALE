@@ -17,15 +17,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72d07338-76ce-43a5-bfb7-cc6bdb92aea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidprogramming/NavigationActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_home_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/round_shape.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_navigation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../slides/04 - Activity, Intent and UI design.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../slides/04 - Activity, Intent and UI design.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../slides/05 - More than activities.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../slides/05 - More than activities.pptx" afterDir="false" />
     </list>
@@ -208,7 +199,28 @@
       <option name="project" value="LOCAL" />
       <updated>1641566483967</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add NavigationActivity and activity_navigation.xml">
+      <created>1641570637894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641570637894</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add NavigationActivity and activity_navigation.xml">
+      <created>1641570894024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641570894024</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Code/app/src/main/res/layout/activity_navigation.xml">
+      <created>1641570949329</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641570949329</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +240,8 @@
     <MESSAGE value="Add LifecycleStatesActivity" />
     <MESSAGE value="Merge branch 'main' of https://github.com/kevinmala00/ATTIVITA-PROGETTUALE" />
     <MESSAGE value="Add ProfileActivity and activity_profile.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ProfileActivity and activity_profile.xml" />
+    <MESSAGE value="Add NavigationActivity and activity_navigation.xml" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Code/app/src/main/res/layout/activity_navigation.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Code/app/src/main/res/layout/activity_navigation.xml" />
   </component>
 </project>

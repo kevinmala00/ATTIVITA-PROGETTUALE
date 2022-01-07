@@ -17,12 +17,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72d07338-76ce-43a5-bfb7-cc6bdb92aea5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidprogramming/ProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../slides/04 - Activity, Intent and UI design.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../slides/04 - Activity, Intent and UI design.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slides/Template.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slides/05 - More than activities.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../slides/05 - More than activities.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PonyHelper/app" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -94,6 +95,9 @@
       <recent name="com.example.androidprogramming" />
     </key>
     <key name="android.template.-1339784735">
+      <recent name="com.example.androidprogramming" />
+    </key>
+    <key name="android.template.-710433419">
       <recent name="com.example.androidprogramming" />
     </key>
   </component>
@@ -180,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641474927172</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'main' of https://github.com/kevinmala00/ATTIVITA-PROGETTUALE">
+      <created>1641548201138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641548201138</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +209,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renamed activity intro class and layout to activity main" />
     <MESSAGE value="Add LifecycleStatesActivity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add LifecycleStatesActivity" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/kevinmala00/ATTIVITA-PROGETTUALE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/kevinmala00/ATTIVITA-PROGETTUALE" />
   </component>
 </project>

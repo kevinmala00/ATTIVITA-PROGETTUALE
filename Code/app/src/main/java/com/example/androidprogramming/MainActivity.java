@@ -13,7 +13,7 @@ import android.os.Handler;
  * @author kevinmala00
  */
 public class MainActivity extends AppCompatActivity {
-    private long delay = 2 * 1000;    //numero di millisecondi da attendere prima di startare la nuova activity
+    private final long delay = 2 * 1000;    //numero di millisecondi da attendere prima di startare la nuova activity
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent = new Intent(getApplicationContext(), HomeActivity.class);
+                Intent intent = new Intent(getApplicationContext(), NavigationActivity.class);
                 finish();
                 startActivity(intent);
             }

@@ -13,7 +13,7 @@ import android.os.Handler;
  * @author kevinmala00
  */
 public class MainActivity extends AppCompatActivity {
-    private final long delay = 3 * 1000;    //numero di millisecondi da attendere prima di startare la nuova activity
+    private final long delay = 3 * 1000;    // numbers of millisecods
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

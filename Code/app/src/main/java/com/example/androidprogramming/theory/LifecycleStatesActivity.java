@@ -1,4 +1,4 @@
-package com.example.androidprogramming;
+package com.example.androidprogramming.theory;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

@@ -19,7 +19,7 @@
             android:name=".ProfileActivity"
             android:exported="false" />
         <activity
-            android:name=".LifecycleStatesActivity"
+            android:name=".theory.LifecycleStatesActivity"
             android:exported="false" />
         <activity
             android:name=".HomeActivity"

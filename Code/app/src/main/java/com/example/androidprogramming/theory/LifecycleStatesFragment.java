@@ -1,4 +1,4 @@
-package com.example.androidprogramming;
+package com.example.androidprogramming.theory;
 
 import android.content.Context;
 import android.os.Bundle;

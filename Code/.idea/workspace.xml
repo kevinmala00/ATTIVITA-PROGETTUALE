@@ -18,6 +18,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72d07338-76ce-43a5-bfb7-cc6bdb92aea5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/androidprogramming/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidprogramming/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../slides/04 - Activity, Intent and UI design.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../slides/04 - Activity, Intent and UI design.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../slides/05 - More than activities.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../slides/05 - More than activities.pptx" afterDir="false" />
     </list>
@@ -26,7 +30,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\kevin\.android\avd\Pixel_4_API_30.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RFCNA03HXJZ]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -63,11 +67,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="layoutResourceFile_vertical" />
-        <option value="layoutResourceFile" />
         <option value="valueResourceFile" />
         <option value="resourceFile" />
         <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -249,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641658147866</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Creation theory folder which contains explanation classes">
+      <created>1641658273441</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641658273441</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +285,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="add NavigationActivity" />
     <MESSAGE value="add LifecycleStatesFragment" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LifecycleStatesFragment" />
+    <MESSAGE value="Creation theory folder which contains explanation classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation theory folder which contains explanation classes" />
   </component>
 </project>

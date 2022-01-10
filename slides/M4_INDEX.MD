@@ -6,6 +6,7 @@
 
 * ACTIVITY AND INTENT
 	+ [intro](https://developer.android.com/guide/components/activities/intro-activities)
+		- *Task and Android multitasking system*
 	
 	+ [activity lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 	

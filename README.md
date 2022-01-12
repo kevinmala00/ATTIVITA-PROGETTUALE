@@ -14,6 +14,7 @@
 ### Misc
 * [Google android source code (framework classes)](https://android.googlesource.com/platform/frameworks/base/)
 * [SQLite sintax reference](https://www.sqlite.org/lang.html)
+* [Java-doc Oracle guide](https://www.oracle.com/it/technical-resources/articles/java/javadoc-tool.html)
 
 
 ## Books

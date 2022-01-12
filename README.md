@@ -13,7 +13,7 @@
 
 ### Misc
 * [Google android source code (framework classes)](https://android.googlesource.com/platform/frameworks/base/)
-* [SQLite sintax refrence](https://www.sqlite.org/lang.html)
+* [SQLite sintax reference](https://www.sqlite.org/lang.html)
 
 
 ## Books

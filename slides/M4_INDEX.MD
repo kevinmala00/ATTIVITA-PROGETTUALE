@@ -44,3 +44,4 @@
 	+ view - widgets
 		- android widget toolbox (button, textview, editext, )
 	+ handling events
+	+ ~~view binding~~

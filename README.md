@@ -60,7 +60,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Events handling
 
 
-[M5] More than activities
+[M5] More than activities and intents
 * Log (Error, Verbose, Warning)
 * Fragment (FragmentLifeCycle, FragmentManager, ListFragment, Transaction, comunication Fragment-Activity) 
 * Notifications (Dialog, Toast, SnackBar)

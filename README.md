@@ -26,7 +26,7 @@
 ## Slides, code examples
 Slides, and code examples can be found here and downloaded using git:
 
-> $ git clone https://github.com/kevinmala00/ATTIVITA-PROGETTUALE.git
+> $ git clone https://github.com/kevinmala00/Android-Programming.git
 
 Both slides and code examples might be updated or bug-fixed during the course. At any time, for downloading the latest version, go the course material directory (on your pc) and use:
 

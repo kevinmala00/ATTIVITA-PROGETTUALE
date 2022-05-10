@@ -12,7 +12,7 @@
 * [Android official course](https://developer.android.com/courses) (video-lesson with exercises)
 
 ### Misc
-* [Google android source code (framework classes)](https://android.googlesource.com/platform/frameworks/base/)
+* [Google android source code (framework classes)](https://android.googlesource.com/platform/frameworks/base/) (e.g. to view core android components java classes: select master branch, core/ folder and then java/ folder)
 * [SQLite sintax reference](https://www.sqlite.org/lang.html)
 * [Java-doc Oracle guide](https://www.oracle.com/it/technical-resources/articles/java/javadoc-tool.html)
 

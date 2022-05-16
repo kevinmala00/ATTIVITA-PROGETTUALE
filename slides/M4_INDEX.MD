@@ -35,13 +35,15 @@
 * UI DESING
 	+ intro
 	+ view hierarchy
+	+ view - widgets
+		- android widget toolbox (button, textview, editext, )
 	+ view group - layout
 		- constraint layout
 		- linear layout
 		- relative layout
 		- frame layout
 		- scroll view
-	+ view - widgets
-		- android widget toolbox (button, textview, editext, )
+	+ optimizing layout
 	+ handling events
 	+ ~~view binding~~
+	+ ~~Material design~~

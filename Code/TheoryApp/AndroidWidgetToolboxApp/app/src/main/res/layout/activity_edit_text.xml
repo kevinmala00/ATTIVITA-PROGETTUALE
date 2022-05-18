@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This layout is a sample which shows how to use EditText widget-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context=".EditTextViewActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:text="Different type of EditText widget:"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="text"
+        android:text="Text"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="phone"
+        android:text="Phone"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="datetime"
+        android:text="DateTime"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="text"
+        android:text="Text"
+        android:drawableEnd="@android:drawable/ic_menu_search"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="text"
+        android:text="Text"
+        android:drawableBottom="@android:drawable/ic_menu_search"/>
+           />
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/text_input_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="TextInputEditText" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="TextInputLayout" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+</LinearLayout>

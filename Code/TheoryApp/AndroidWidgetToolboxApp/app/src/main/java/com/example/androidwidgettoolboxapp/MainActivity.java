@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Spinner;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button bBackgroundExample = findViewById(R.id.b_background_example);
-        Button bBackgroundExample2 = findViewById(R.id.b_background_example2);
+        Button bWidgetToolbox = findViewById(R.id.b_widget_toolbox);
 
         bBackgroundExample.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -26,10 +25,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        bBackgroundExample2.setOnClickListener(new View.OnClickListener() {
+        bWidgetToolbox.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, BackgroundExampleActivity.class);
+                Intent intent = new Intent(MainActivity.this, WidgetToolboxActivity.class);
                 startActivity(intent);
             }
         });

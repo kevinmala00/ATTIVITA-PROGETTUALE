@@ -26,17 +26,28 @@
         android:padding="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-        <RadioButton
-            android:id="@+id/radioButton"
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton" />
+            android:text="Choose:"/>
+        <RadioButton
+            android:id="@+id/rb_java_language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Java" />
 
         <RadioButton
-            android:id="@+id/radioButton2"
+            android:id="@+id/rb_c_language"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton2" />
+            android:text="C" />
+        <TextView
+            android:id="@+id/tv_result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:visibility="invisible"
+            android:textAllCaps="true"/>
     </RadioGroup>
     <RadioButton
         android:id="@+id/radioButton3"

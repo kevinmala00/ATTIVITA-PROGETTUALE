@@ -53,7 +53,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 [M4] Activity, Intent and UI design
 * Application lifecycle and priority
 * Application core components (Activity, Services, Broadcast receiver, Content provider)
-* Activitis & Intents
+* Activities & Intents
 * View hierarchy
 * ViewGroup - Layout (Linear, Constraint, Relative, ScrollView)
 * View - Widget (Androdid Widget toolbox)
@@ -63,6 +63,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 [M5] More than activities and intents
 * Log (Error, Verbose, Warning)
 * Fragment (FragmentLifeCycle, FragmentManager, ListFragment, Transaction, comunication Fragment-Activity) 
+* ViewModel
 * Notifications (Dialog, Toast, SnackBar)
 * Services
 * Permission (Runtime check, ...)

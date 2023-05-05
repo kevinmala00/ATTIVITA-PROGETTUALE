@@ -7,8 +7,9 @@
 * [Android Studio](https://developer.android.com/studio)
 
 ### Tutorials
-* [Android Studio official guide](https://developer.android.com/studio/intro)
-* [Android developer official guide](https://developer.android.com/guide)
+* [**Android developer official guide**](https://developer.android.com/guide)
+* [**Android developer official UI guide**](https://developer.android.com/develop/ui)
+* [**Android Studio official guide**](https://developer.android.com/studio/intro)
 * [Android official course](https://developer.android.com/courses) (video-lesson with exercises)
 
 ### Misc
@@ -69,8 +70,12 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Permission (Runtime check, ...)
 * Broadcast receivers
 
+[M6] Work in background
+* Services
+* Background Task
 
-[M6] Advance UI components
+
+[M7] Advance UI components
 * View and Adapter (RecyclerView, CardView, Spinner)
 * System UI (ActionBar, ToolBar, NavigationBar, StatusBar)
 * Navigation UI (NavigationDrawer, TabLayout, FloatingActionBar,)
